@@ -20,5 +20,7 @@ public class InputOutput{
   double jumlah = IPK * jumlahSks;
   System.out.print("Total Nilai = "+jumlah);
 
+  System.out.print("    Terima Kasih.. "+nama);
+
  }
 }
